@@ -30,7 +30,7 @@
 
 ## 🔮 Future Improvements
 * Bluetooth Companion App for teachers.
-* OTA (Over-the-Air) updates for adding new districts wirelessly.
+* OTA (Over-the-Air) updates for future wirelessly if needed.
 * Deep Sleep mode for longer battery life.
 * **Visual Feedback:** RGB LED indicates scanning status (Success/Error).
 
