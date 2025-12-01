@@ -6,7 +6,6 @@
 * **Interactive Learning:** Students scan physical flashcards to hear audio clues about districts.
 * **Tactile Puzzle:** A laser-cut wooden map for hands-on spatial understanding.
 * **Audio Feedback:** Uses a DFPlayer Mini to play descriptions, folklore, and facts.
-* **Visual Feedback:** RGB LED indicates scanning status (Success/Error).
 * **Portable Power:** Powered by a single 18650 Li-Ion battery with a custom boosted 5.1V rail.
 
 ## 🛠️ Hardware Components
